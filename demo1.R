@@ -29,3 +29,9 @@ add_fruits <- function(apples, bananas) {
 
 # Rename variable within scope: Cmd+Opt+Shift+M
 
+# Ctrl + Shift + [1/2/3/4] to move between panes
+# Ctrl + 1 all panes
+# Ctrl + . to find files
+# Ctrl + Shift + . to navigate between tabs
+# Cmd + Shift + F
+
